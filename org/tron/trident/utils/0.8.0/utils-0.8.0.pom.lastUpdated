@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 14 19:09:02 CST 2023
+file\:///Users/secret/IdeaProjects/box/src/main/resources/jar/.error=
+file\:///Users/secret/IdeaProjects/box/src/main/resources/jar/.lastUpdated=1702550392849
+https\://repo.maven.apache.org/maven2/.lastUpdated=1702550394034
+/Users/secret/IdeaProjects/box/src/main/resources/jar/.error=Could not transfer artifact org.tron.trident\:utils\:pom\:0.8.0 from/to any_name (/Users/secret/IdeaProjects/box/src/main/resources/jar)\: Cannot access /Users/secret/IdeaProjects/box/src/main/resources/jar with type default using the available connector factories\: BasicRepositoryConnectorFactory
+https\://repo.maven.apache.org/maven2/.error=
+@default-any_name-/Users/secret/IdeaProjects/box/src/main/resources/jar/.lastUpdated=1702552142978
